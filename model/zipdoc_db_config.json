@@ -1,0 +1,9 @@
+{
+  "connectionLimit":20,
+  "host":"127.0.0.1",
+  "user":"root",
+  "password":"zipdoc!@#",
+  "database":"mysql",
+  "charset": "UTF8_GENERAL_CI",
+  "timezone": "+0900"
+}
